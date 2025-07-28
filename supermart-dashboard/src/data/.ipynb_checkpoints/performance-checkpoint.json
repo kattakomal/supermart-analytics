@@ -1,0 +1,4 @@
+[
+  { "model": "LinearRegression", "rmse": 463.77 },
+  { "model": "RandomForest",     "rmse": 476.46}
+]
